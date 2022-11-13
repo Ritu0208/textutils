@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import './App.css';
-import Alert from './componets/Alert';
-import Navbar from './componets/Navbar';
-import TextForm from './componets/TextForm';
-import About from './componets/About';
+import Alert from './components/Alert';
+import Navbar from './components/Navbar';
+import TextForm from './components/TextForm';
+import About from './components/About';
 // import { render } from "react-dom";
 import {
   BrowserRouter as Router,
